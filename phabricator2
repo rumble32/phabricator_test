@@ -1,0 +1,2 @@
+git ALL=(root) SETENV: NOPASSWD: /bin/ls, git-http-backend, /usr/bin/git-upload-pack, /usr/bin/git-receive-pack, /usr/bin/git, /usr/bin/ssh
+mol ALL=(root) SETENV: NOPASSWD: /bin/ls, /usr/bin/git, /usr/bin/ssh, git-http-backend
